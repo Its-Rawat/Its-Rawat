@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rb.gy/2mibs](https://rb.gy/2mibs)
 
-- 💬 Ask me about **C++, Python, Html, CSS, Java**
+- 💬 Ask me about **`C++, Python, Html, CSS, Java`**
 
 - 📫 How to reach me **adi2002rawat@gmail.com**
 
