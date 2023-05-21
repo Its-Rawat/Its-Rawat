@@ -1,5 +1,6 @@
 🤩🤩🤩🤩🤩🤩🤩🤩
 ![MasterHead](https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966)
+
 🤩🤩🤩🤩🤩🤩🤩
 <h1 align="center">Hi 👋, I'm 𝔸𝔻𝕀𝕋𝕐𝔸 ℝ𝔸𝕎𝔸𝕋</h1>
 <h3 align="center">A Passionate Programmer from India.</h3>
@@ -36,5 +37,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-rawat&" alt="its-rawat" /></p>
 
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/6Ac8XIf7JjYNXHk4ccjoI4?utm_source=generator&theme=0)
+![MasterHead](https://spotify-github-profile.vercel.app/api/view.svg?uid=31vinsx3hil46yvaula57u55bmte&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true
+)
