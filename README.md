@@ -1,7 +1,7 @@
 🤩🤩🤩🤩🤩🤩🤩🤩
 ![MasterHead](https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966)
 🤩🤩🤩🤩🤩🤩🤩
-<h1 align="center">Hi 👋, I'm 𝓐𝓓𝓘𝓣𝓨𝓐 𝓡𝓐𝓦𝓐𝓣</h1>
+<h1 align="center">Hi 👋, I'm 𝔸𝔻𝕀𝕋𝕐𝔸 ℝ𝔸𝕎𝔸𝕋</h1>
 <h3 align="center">A Passionate Programmer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 
