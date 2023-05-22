@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java Core**
 
-- 👨‍💻 All of my projects are available at [https://rb.gy/2mibs](https://rb.gy/2mibs)
+- 👨‍💻 All of my projects are available at [https://rb.gy/2mibs](https://its-rawat.github.io/Portfolio/blog.html)
 
 - 💬 Ask me about **`C++, Python, Html, CSS, Java`**
 
