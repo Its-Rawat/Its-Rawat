@@ -39,6 +39,4 @@
 ![MasterHead](https://spotify-github-profile.vercel.app/api/view.svg?uid=31vinsx3hil46yvaula57u55bmte&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true
 )
 
-
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Its-Rawat/Its-Rawat/blob/output/github-contribution-grid-snake.gif)
