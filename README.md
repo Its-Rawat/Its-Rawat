@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://rb.gy/5mrng](https://rb.gy/5mrng)
 
-- ⚡ Fun fact **I'm Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
