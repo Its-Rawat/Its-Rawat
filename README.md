@@ -9,17 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-rawat&label=Profile%20views&color=0e75b6&style=flat" alt="its-rawat" /> </p>
 
-- 🔭 I’m currently working on [Word Game](https://rb.gy/nur1k)
+- 🔭 I’m currently working on Springboot Project
 
-- 🌱 I’m currently learning **Java Core**
-
-- 👨‍💻 All of my projects are available at [https://rb.gy/2mibs](https://its-rawat.github.io/Portfolio/blog.html)
-
-- 💬 Ask me about **`C++, Python, Html, CSS, Java`**
+- 💬 Ask me about **`Html, CSS, Java`**
 
 - 📫 How to reach me **adi2002rawat@gmail.com**
-
-- 📄 Know about my experiences [https://rb.gy/5mrng](https://rb.gy/5mrng)
 
 
 
