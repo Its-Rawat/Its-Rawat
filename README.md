@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on Springboot Project
 
-- 💬 Ask me about **`Html, CSS, Java`**
+- 💬 Ask me about **`Java, SQL, Tech..`**
 
-- 📫 How to reach me **adi2002rawat@gmail.com**
+- 📫 How to reach me **[Message](https://its-rawat.github.io/Rawat-Portfolio/form/Gform.html)**
 
 
 
