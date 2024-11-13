@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm 𝔸𝔻𝕀𝕋𝕐𝔸 ℝ𝔸𝕎𝔸𝕋</h1>
-<h3 align="center">A Passionate Programmer from India.</h3>
+<h3 align="center">A Developer From India.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif"> -->
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/a1b16757-0337-49ed-a574-36086de4a78c">
 
@@ -20,22 +20,56 @@
 - 📫 How to reach me **[Message](https://its-rawat.github.io/Rawat-Portfolio/form/Gform.html)**
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/its-rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its-rawat" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Its-Just-Info/videos" target="blank"><img align="center" src="https://github.com/user-attachments/assets/e3ce36ba-3ead-4578-8fd9-2bf7d8b156cb" alt="its-rawat" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/adi2002rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/adi2002rawat" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-rawat&show_icons=true&locale=en&layout=compact" alt="its-rawat" /></p>
+# ![badge](https://img.shields.io/badge/Project-Active-brightgreen) Recent Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-rawat&show_icons=true&locale=en" alt="its-rawat" /></p>
+<p align="left">
+  <a href="https://github.com/Its-Rawat/Electro-Lok" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/1d132503-8ec9-41a7-b434-1750406ba26d" alt="springboot project" width="40" height="40"/>
+  </a><a href="https://github.com/Its-Rawat/Electro-Lok" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/763545d5-c5d4-48bf-ac4a-299f171bfe83" alt="springboot project" width="40" height="40"/>
+  </a>
+ <!-- ----------------------------------------Arduino------------------------------------ -->
+ <a href="https://github.com/Its-Rawat/BCA_MajorProject" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/9ddea6ca-df89-49ec-bc59-c50591a91f7a" alt="Blind Stick project" width="40" height="40"/>
+  </a><a href="https://github.com/Its-Rawat/BCA_MajorProject" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/763545d5-c5d4-48bf-ac4a-299f171bfe83" alt="Blind Stick project" width="40" height="40"/>
+  </a>
+ <!-- ----------------------------------------Arduino------------------------------------ -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-rawat&" alt="its-rawat" /></p>
+ <!-- ----------------------------------------javaScript-Web Dev------------------------------------ -->
+ <a href="https://github.com/Its-Rawat/Rawat-Portfolio" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/0ee510bb-6166-4bac-b400-93a5149752f6" alt="proftfolio project" width="40" height="40"/>
+  </a><a href="https://github.com/Its-Rawat/Rawat-Portfolio" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/763545d5-c5d4-48bf-ac4a-299f171bfe83" alt="proftfolio project" width="40" height="40"/>
+  </a>
+ <!-- ----------------------------------------javaScript-Web Dev------------------------------------ -->
+</p>
 
-![MasterHead](https://spotify-github-profile.vercel.app/api/view.svg?uid=31vinsx3hil46yvaula57u55bmte&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true
-)
-<!--![snake gif](https://github.com/Its-Rawat/Its-Rawat/blob/output/github-contribution-grid-snake.gif) -->
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Its-Rawat&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Its-Rawat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+
+
+
+### 📰 Latest Blog Posts
+
+- [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/pGR5cvM4zi0?si=JEnULUiatXcMMsVb) 
+  [How to Implement Hibernate in Spring Boot Applications {Part-2}](https://youtu.be/pGR5cvM4zi0?si=JEnULUiatXcMMsVb)
+
+- [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/pGR5cvM4zi0?si=U9yME8KXSVYdfBbw) 
+  [How to Implement Hibernate in Spring Boot Applications {Part-1}](https://youtu.be/pGR5cvM4zi0?si=U9yME8KXSVYdfBbw)
+
+
+
