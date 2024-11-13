@@ -1,11 +1,15 @@
 🤩🤩🤩🤩🤩🤩🤩🤩🤩
 ![MasterHead](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)🤩🤩🤩🤩🤩🤩🤩🤩
 
+ <!-- ![ezgif-5-baaf9c001a](https://github.com/user-attachments/assets/a1b16757-0337-49ed-a574-36086de4a78c) -->
+
+
 
 
 <h1 align="center">Hi 👋, I'm 𝔸𝔻𝕀𝕋𝕐𝔸 ℝ𝔸𝕎𝔸𝕋</h1>
 <h3 align="center">A Passionate Programmer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/a1b16757-0337-49ed-a574-36086de4a78c">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-rawat&label=Profile%20views&color=0e75b6&style=flat" alt="its-rawat" /> </p>
 
