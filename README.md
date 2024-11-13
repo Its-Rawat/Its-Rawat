@@ -13,9 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-rawat&label=Profile%20views&color=0e75b6&style=flat" alt="its-rawat" /> </p>
 
-- 🔭 I’m currently working on Springboot Project
+- 🔭 Currently working on Springboot Project Electro Lok {e-commerce store}
 
-- 💬 Ask me about **`Java, SQL, Tech..`**
+- 💬 Ask me about **`Java, SQL, Spring Framework..`**
 
 - 📫 How to reach me **[Message](https://its-rawat.github.io/Rawat-Portfolio/form/Gform.html)**
 
